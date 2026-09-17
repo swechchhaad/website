@@ -18,7 +18,7 @@ I’m interested in both theoretical and applied post-quantum cryptography. Curr
 
 Previously, I was a research intern at Max Planck Institute for Security and Privacy (MPI-SP) in cryptographic engineering, supervised by [Peter Schwabe](https://cryptojedi.org/peter/index.shtml). I worked on evaluating ML-KEM at (much) higher security levels.
 
-My mathematical interests mainly lie in algebraic number theory, lattices, and computational algebra, with applications to cryptography. My most recent project involved constructing monogenic fields of cryptographic size via a palindromic polynomial transformation; we are currently preparing a manuscript. My first math paper is available [here](https://arxiv.org/abs/2506.22897).
+My mathematical interests lie in algebraic number theory, lattices, and computational algebra, with applications to cryptography. My most recent project involved constructing monogenic fields of cryptographic size via a palindromic polynomial transformation [(preprint)]({{ '/assets/pdf/monogenic.pdf' | relative_url }}). An earlier work of mine on algebraic geometry is available [here](https://arxiv.org/abs/2506.22897).
 
 **Note**: I go by Sia, while Swechchha is my legal name and appears in all my works.
 
