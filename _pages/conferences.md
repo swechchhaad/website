@@ -54,7 +54,7 @@ nav_order: 3
 
 <div class="conf-list" markdown="0">
 
-<h2>Contributed Talks</h2>
+<h2>Talks</h2>
 <ul>
   <li>
     <span class="venue">Spark(l)ing Science</span> — <span class="place">MPI-SP, Bochum, Germany</span> · <span class="date">June 2026</span> · <a href="{{ '/assets/pdf/talk_mpi.pdf' | relative_url }}">slides</a>
