@@ -1,0 +1,9 @@
+// Site accent color: CMYK (0,1,0,0) = magenta
+$site-magenta: #ff00ff;
+
+:root,
+html[data-theme="light"],
+html[data-theme="dark"] {
+  --global-theme-color: #{$site-magenta};
+  --global-hover-color: #{$site-magenta};
+}
