@@ -7,3 +7,14 @@ html[data-theme="dark"] {
   --global-theme-color: #{$site-magenta};
   --global-hover-color: #{$site-magenta};
 }
+
+// Homepage: smaller name, photo centered above the text
+.home-title {
+  font-size: 2rem;
+}
+
+.profile.profile-center {
+  width: 220px;
+  max-width: 70%;
+  margin: 0 auto 1.5rem;
+}

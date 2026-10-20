@@ -4,7 +4,7 @@ title: about
 permalink: /
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: false
   caption: "My first time in Boston for Thanksgiving 2025"
